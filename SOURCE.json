@@ -2,26 +2,26 @@
   "schema": "qrscan-action-stage/1",
   "engine": {
     "repository": "https://github.com/qrcode-ai-com/qrcode-barcode-scanner-rust",
-    "revision": "700ae222b16a74fa0b0f60488808974d35d62333"
+    "revision": "5ec48cf6c1b9df03257fc453af7d6d06402194bd"
   },
   "files": {
     ".github/workflows/test.yml": "2da70c4aef6846326915c25ae6821b226e62e99c3f0e1df9ad46172629c54743",
     "LICENSE": "f4d433b564117e27b6aaf8f2902f2200368f57bb2d8286129c2f1774c000295a",
-    "README.md": "9e97df0397b9edde847a500d3b8668033c28e9d0c1465ee38d3765da87f51e3f",
-    "action.yml": "f6ac31660452fcf29778335f25f7a5027b98d6d0adacf7d524c224311415fd0f",
-    "package.json": "e50eda41b908c6c0292e78f981fcc61f3c84ff71e04a118552490a884cd38ab9",
+    "README.md": "ee1df1a39920359a55b51dd873764467efddbd0fccccda47a5cebbbf44c04c93",
+    "action.yml": "2e081339b751550531af01a470b3c32e6984b5083407497e1162ebf127b34e0f",
+    "package.json": "20440f87dcd5a7999caa237fc74b7e2af010e5105de5e345eede368533338b44",
     "src/archive.mjs": "aab9557fbb4dcc75a6a3a100795984de33f99a00dabfb575fdbdd689a1cf3186",
     "src/github.mjs": "401a77ee7d9ecf0c671ba2a72303e6a3a42d92dbe85bb861eb95d3a7ee9dbb55",
     "src/index.mjs": "fe739f24a5e79249821600d92dba5bb04160bfcda4e56028d3f34ebf1b3bcadb",
     "src/install-cli.mjs": "fad82d27bb551b5f585ea69d57f206c6beea2fee64c48169c7f0255f2daa1116",
     "src/install.mjs": "b3a830eded18d452cda0d4d46cdd3372951534b56b03fd95a31801f064d99c2e",
     "src/main.mjs": "a01e55c97584199ad0fbfdc80f6121ea7b4ea4bb42f6060c683e626e70f01f1f",
-    "src/releases.mjs": "60fb9f2cbb321764835dc705247abc95d076bb0a214fc69afad5be9ba72718d3",
+    "src/releases.mjs": "9f6c12b50d8f4900fc3795091b372df76dbf6ab1a767795089d6d12e35b60d12",
     "src/scan.mjs": "8efc04adad0f506cb75d149bacc8009483ed01f5da1b0cd3cc7a1e787d6bf0a8",
     "test/engine.test.mjs": "6f38b1edd2e4ee8ce2e705681c87d01eb891a23a6f17a0d582e754f60ffc4ea6",
     "test/fixtures/mixed-code128-qr.png": "c636e8d56df483ff1ec06dbe9b5bcba226c579f8fc1c3d10c4ccf4e100762ec8",
     "test/helpers.mjs": "6c89b8d2526f081d0c52cbb805a13e0430a264b23845094151461716dd9745e1",
-    "test/install.test.mjs": "58059699d3290233034830038dde8ac17b860ad5852fad3d48706154015635d2",
+    "test/install.test.mjs": "c59d1e87b326ab172f84f3853fe13727aa67636459fb416470cde097c6f008a5",
     "test/judge-ci.mjs": "74985c1d6e387baa6ff52189f0c20dd57576f0e4cd5bdda5d99fb75c83cc2195",
     "test/scan.test.mjs": "3d664f62a6fc92a9842181ceff41bbca3091ca6a3fc18295c7ef37c4a290836b"
   }
